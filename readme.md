@@ -18,5 +18,5 @@ npm run build
 ```
 
 ## Sources
-Courtesy of Bruno Simon of https://threejs-journey.xyz/
-Repo puclicly cloned from https://github.com/designcourse/threejs-webpack-starter
+- Courtesy of Bruno Simon of https://threejs-journey.xyz/
+- Repo puclicly cloned from https://github.com/designcourse/threejs-webpack-starter
