@@ -17,12 +17,13 @@ npm run dev
 npm run build
 ```
 
-##Sources
-```
-    ## BoilerPlate
+## Sources
+
+### BoilerPlate
     - Courtesy of Bruno Simon of https://threejs-journey.xyz/
     - Repo puclicly cloned from https://github.com/designcourse/threejs-webpack-starter
 
-    ## Tutorials
+### Tutorials
     - https://www.youtube.com/watch?v=pUgWfqWZWmM
-```
+    - https://www.youtube.com/watch?v=YKzyhcyAijo
+
