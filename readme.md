@@ -3,8 +3,8 @@ This is a website for my Portfolio
 I am learning and using Three.js and Webpack to develop this
 
 ## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
+Ensure to have Node.js installed.
+Run the following commands:
 
 ``` bash
 # Install dependencies (only the first time)
@@ -18,5 +18,12 @@ npm run build
 ```
 
 ## Sources
-- Courtesy of Bruno Simon of https://threejs-journey.xyz/
-- Repo puclicly cloned from https://github.com/designcourse/threejs-webpack-starter
+```
+    #`BoilerPlate
+    - Courtesy of Bruno Simon of https://threejs-journey.xyz/
+    - Repo puclicly cloned from https://github.com/designcourse/threejs-webpack-starter
+
+    #`Tutorials
+    - https://www.youtube.com/watch?v=pUgWfqWZWmM
+
+```
