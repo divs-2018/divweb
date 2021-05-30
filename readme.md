@@ -1,5 +1,6 @@
-# Three.js Starter
-Courtesy of Bruno Simon of https://threejs-journey.xyz/
+# Website for my Portfolio
+This is a website for my Portfolio
+I am learning and using Three.js and Webpack to develop this
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
@@ -15,3 +16,7 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+
+## Sources
+Courtesy of Bruno Simon of https://threejs-journey.xyz/
+Repo puclicly cloned from https://github.com/designcourse/threejs-webpack-starter
