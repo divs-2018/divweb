@@ -4,11 +4,15 @@
     padding: 0;
 }
 
-html,
+html
+{
+    overflow: hidden;
+    height: 100%;
+}
 body
 {
-    height: 100vh;
-    font-family: 'Poppins';
+    overflow: auto;
+    height: 100%;
 }
 
 .webgl
@@ -18,3 +22,4 @@ body
     left: 0;
     outline: none;
 }
+
